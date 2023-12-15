@@ -1,0 +1,10 @@
+C:\Users\koray.kavruk\source\repos\KDVHesap\KDVHesap\bin\Debug\KDVHesap.exe.config
+C:\Users\koray.kavruk\source\repos\KDVHesap\KDVHesap\bin\Debug\KDVHesap.exe
+C:\Users\koray.kavruk\source\repos\KDVHesap\KDVHesap\bin\Debug\KDVHesap.pdb
+C:\Users\koray.kavruk\source\repos\KDVHesap\KDVHesap\obj\Debug\KDVHesap.csprojAssemblyReference.cache
+C:\Users\koray.kavruk\source\repos\KDVHesap\KDVHesap\obj\Debug\KDVHesap.Form1.resources
+C:\Users\koray.kavruk\source\repos\KDVHesap\KDVHesap\obj\Debug\KDVHesap.Properties.Resources.resources
+C:\Users\koray.kavruk\source\repos\KDVHesap\KDVHesap\obj\Debug\KDVHesap.csproj.GenerateResource.cache
+C:\Users\koray.kavruk\source\repos\KDVHesap\KDVHesap\obj\Debug\KDVHesap.csproj.CoreCompileInputs.cache
+C:\Users\koray.kavruk\source\repos\KDVHesap\KDVHesap\obj\Debug\KDVHesap.exe
+C:\Users\koray.kavruk\source\repos\KDVHesap\KDVHesap\obj\Debug\KDVHesap.pdb
